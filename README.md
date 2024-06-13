@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @soniatavarez
+- 🌱 I’m currently working on my MBA with a focus on Business Analytics
+- 📫 My repositary is private but can be made available upon request
