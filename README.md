@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @soniatavarez
 
-## Below is the summary of the repositary I worked on for my MBA. The repositary is private but can be made available upon request.
+## Below is the summary of the repository I worked on for my MBA. The repository is private but can be made available upon request.
 
 ### Data Warehousing and Analytics: nyc_affordable_housing 
 
