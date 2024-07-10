@@ -1,8 +1,5 @@
-# 👋 Hi, I’m @soniatavarez
+## 👋 Hi, I’m @soniatavarez
 
-## Below is a summary of the repository I developed during my MBA program. Although the repository is currently private, I can make it public upon request.
+📓: MBA Candidate in Business Analytics, Baruch College
 
-### Data Warehousing and Analytics: nyc_affordable_housing 
-
-For my Data Warehousing and Analytics course, I completed a project that involved sourcing data, creating an ETL pipeline via python scripts, and visualizing the results using a business intelligence tool. I used DataGrip, Azure Cloud Storage, PostgreSQL, DbSchema, and Tableau for this project.
-
+💻: Portfolio repository shows summary of a project worked on during my mba. The project was done during my Data Warehousing and Analytics courses where I built an ETL pipeline via python and served the data via tableau.
